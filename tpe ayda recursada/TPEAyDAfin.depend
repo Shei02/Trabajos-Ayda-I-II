@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1636130475 source:c:\users\facu\appdata\roaming\microsoft\windows\start menu\programs\codeblocks\tpeaydafin\src\plataforma.cpp
+	"PLATAFORMA.H"
+
+1636129933 c:\users\facu\appdata\roaming\microsoft\windows\start menu\programs\codeblocks\tpeaydafin\include\plataforma.h
+	<iostream>
+
+1636129947 source:c:\users\facu\appdata\roaming\microsoft\windows\start menu\programs\codeblocks\tpeaydafin\src\datosservidor.cpp
+	"DatosServidor.h"
+	"plataforma.h"
+	<iostream>
+
+1636129933 c:\users\facu\appdata\roaming\microsoft\windows\start menu\programs\codeblocks\tpeaydafin\include\datosservidor.h
+	"plataforma.h"
+	<iostream>
+
+1636130196 source:c:\users\facu\appdata\roaming\microsoft\windows\start menu\programs\codeblocks\tpeaydafin\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	"plataforma.h"
+	"servicios.h"
+
+1636129955 c:\users\facu\appdata\roaming\microsoft\windows\start menu\programs\codeblocks\tpeaydafin\include\servicios.h
+	"Plataforma.h"
+	"DatosServidor.h"
+	"lista.h"
+
+1636129961 c:\users\facu\appdata\roaming\microsoft\windows\start menu\programs\codeblocks\tpeaydafin\include\lista.h
+	<iostream>
+	"Plataforma.h"
+	"DatosServidor.h"
+
+1636129967 source:c:\users\facu\appdata\roaming\microsoft\windows\start menu\programs\codeblocks\tpeaydafin\src\lista.cpp
+	"Lista.h"
+	"Plataforma.h"
+	"DatosServidor.h"
+
+1636130161 source:c:\users\facu\appdata\roaming\microsoft\windows\start menu\programs\codeblocks\tpeaydafin\src\servicios.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Plataforma.h"
+	"Servicios.h"
+	"Lista.h"
+	"DatosServidor.h"
+
+1636553819 source:c:\users\facu\onedrive\escritorio\codeblocks\tpeaydafin\main.cpp
+	<iostream>
+	<clocale>
+	"Plataforma.h"
+	"Servicios.h"
+
+1636567305 c:\users\facu\onedrive\escritorio\codeblocks\tpeaydafin\include\plataforma.h
+	<iostream>
+	"Lista.h"
+
+1636578303 c:\users\facu\onedrive\escritorio\codeblocks\tpeaydafin\include\servicios.h
+	"Plataforma.h"
+	"Lista.h"
+
+1636470830 c:\users\facu\onedrive\escritorio\codeblocks\tpeaydafin\include\datosservidor.h
+	"Plataforma.h"
+	<iostream>
+
+1636553819 c:\users\facu\onedrive\escritorio\codeblocks\tpeaydafin\include\lista.h
+	<iostream>
+
+1636466960 source:c:\users\facu\onedrive\escritorio\codeblocks\tpeaydafin\src\datosservidor.cpp
+	"DatosServidor.h"
+	"Plataforma.h"
+	<iostream>
+
+1636570773 source:c:\users\facu\onedrive\escritorio\codeblocks\tpeaydafin\src\lista.cpp
+	<iostream>
+	"Lista.h"
+	"Plataforma.h"
+
+1636569194 source:c:\users\facu\onedrive\escritorio\codeblocks\tpeaydafin\src\plataforma.cpp
+	"Plataforma.h"
+
+1636578303 source:c:\users\facu\onedrive\escritorio\codeblocks\tpeaydafin\src\servicios.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Servicios.h"
+	"Lista.h"
+
+1636569194 source:c:\users\notebook\desktop\tpe ayda recursada\src\plataforma.cpp
+	"Plataforma.h"
+
+1636567305 c:\users\notebook\desktop\tpe ayda recursada\include\plataforma.h
+	<iostream>
+	"Lista.h"
+
+1667590216 c:\users\notebook\desktop\tpe ayda recursada\include\lista.h
+
+1636578303 source:c:\users\notebook\desktop\tpe ayda recursada\src\servicios.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Servicios.h"
+	"Lista.h"
+
+1636578303 c:\users\notebook\desktop\tpe ayda recursada\include\servicios.h
+	"Plataforma.h"
+	"Lista.h"
+
+1667474202 source:c:\users\notebook\desktop\tpe ayda recursada\main.cpp
+	<iostream>
+	<clocale>
+	"Plataforma.h"
+	"Servicios.h"
+

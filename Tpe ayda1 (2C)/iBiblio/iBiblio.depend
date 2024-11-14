@@ -1,0 +1,214 @@
+# depslib dependency file v1.0
+1665613308 source:c:\users\xaydu\onedrive\documentos\algoritmos\2022-2c\tpe\ibiblio\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+
+1667578029 source:c:\users\notebook\desktop\biblioteca\ibiblio\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+
+1667579542 source:c:\users\notebook\desktop\biblioteca\ibiblio\src\serviciosbiblioteca.cpp
+	"ServiciosBiblioteca.h"
+
+1667579542 c:\users\notebook\desktop\biblioteca\ibiblio\include\serviciosbiblioteca.h
+
+1667580915 source:c:\users\notebook\desktop\biblioteca\ibiblio\src\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1667589361 c:\users\notebook\desktop\biblioteca\ibiblio\include\lista.h
+
+1667589763 source:c:\users\notebook\desktop\biblioteca\ibiblio\src\bibliotecaunicen.cpp
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1667589761 c:\users\notebook\desktop\biblioteca\ibiblio\include\bibliotecaunicen.h
+	<iostream>
+	"Lista.h"
+
+1667941815 source:c:\users\usuario\downloads\ibiblio-20221108t154650z-001\ibiblio\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	"ServiciosBiblioteca.h"
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1667941232 c:\users\usuario\downloads\ibiblio-20221108t154650z-001\ibiblio\include\serviciosbiblioteca.h
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1667930948 c:\users\usuario\downloads\ibiblio-20221108t154650z-001\ibiblio\include\bibliotecaunicen.h
+	<iostream>
+	"Lista.h"
+
+1667937714 c:\users\usuario\downloads\ibiblio-20221108t154650z-001\ibiblio\include\lista.h
+
+1667935573 source:c:\users\usuario\downloads\ibiblio-20221108t154650z-001\ibiblio\src\bibliotecaunicen.cpp
+	<iostream>
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1667937714 source:c:\users\usuario\downloads\ibiblio-20221108t154650z-001\ibiblio\src\lista.cpp
+	<iostream>
+	"Lista.h"
+	"BibliotecaUnicen.h"
+
+1667940695 source:c:\users\usuario\downloads\ibiblio-20221108t154650z-001\ibiblio\src\serviciosbiblioteca.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Lista.h"
+	"BibliotecaUnicen.h"
+	"ServiciosBiblioteca.h"
+
+1668038238 source:c:\users\notebook\downloads\ibiblio\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	"ServiciosBiblioteca.h"
+	"BibliotecaUnicen.h"
+	"Lista.h"
+	"stdlib.h"
+
+1668035110 c:\users\notebook\downloads\ibiblio\include\serviciosbiblioteca.h
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1668016585 c:\users\notebook\downloads\ibiblio\include\bibliotecaunicen.h
+	<iostream>
+	"Lista.h"
+
+1668035637 c:\users\notebook\downloads\ibiblio\include\lista.h
+
+1668032737 source:c:\users\notebook\downloads\ibiblio\src\bibliotecaunicen.cpp
+	<iostream>
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1668038352 source:c:\users\notebook\downloads\ibiblio\src\lista.cpp
+	<iostream>
+	"Lista.h"
+	"BibliotecaUnicen.h"
+
+1668035426 source:c:\users\notebook\downloads\ibiblio\src\serviciosbiblioteca.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Lista.h"
+	"BibliotecaUnicen.h"
+	"ServiciosBiblioteca.h"
+
+1668131007 source:c:\users\mateo\desktop\ibiblio\src\bibliotecaunicen.cpp
+	<iostream>
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1667998584 c:\users\mateo\desktop\ibiblio\include\bibliotecaunicen.h
+	<iostream>
+	"Lista.h"
+
+1668128948 c:\users\mateo\desktop\ibiblio\include\lista.h
+
+1668137398 source:c:\users\mateo\desktop\ibiblio\src\lista.cpp
+	<iostream>
+	"Lista.h"
+	"BibliotecaUnicen.h"
+
+1668137398 source:c:\users\mateo\desktop\ibiblio\src\serviciosbiblioteca.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Lista.h"
+	"BibliotecaUnicen.h"
+	"ServiciosBiblioteca.h"
+
+1668017110 c:\users\mateo\desktop\ibiblio\include\serviciosbiblioteca.h
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1668134675 source:c:\users\mateo\desktop\ibiblio\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	"ServiciosBiblioteca.h"
+	"BibliotecaUnicen.h"
+	"Lista.h"
+	"stdlib.h"
+
+1668137398 source:c:\users\notebook\desktop\walter\ibiblio\src\lista.cpp
+	<iostream>
+	"Lista.h"
+	"BibliotecaUnicen.h"
+
+1668128948 c:\users\notebook\desktop\walter\ibiblio\include\lista.h
+
+1668167942 c:\users\notebook\desktop\walter\ibiblio\include\bibliotecaunicen.h
+	<iostream>
+	"Lista.h"
+
+1668170406 source:c:\users\notebook\desktop\walter\ibiblio\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	"ServiciosBiblioteca.h"
+	"BibliotecaUnicen.h"
+	"Lista.h"
+	"stdlib.h"
+
+1668168901 c:\users\notebook\desktop\walter\ibiblio\include\serviciosbiblioteca.h
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1668167963 source:c:\users\notebook\desktop\walter\ibiblio\src\bibliotecaunicen.cpp
+	<iostream>
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1668170129 source:c:\users\notebook\desktop\walter\ibiblio\src\serviciosbiblioteca.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Lista.h"
+	"BibliotecaUnicen.h"
+	"ServiciosBiblioteca.h"
+
+1668203116 source:c:\users\notebook\desktop\tpe ayda1 (2c)\ibiblio\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	"ServiciosBiblioteca.h"
+	"BibliotecaUnicen.h"
+	"Lista.h"
+	"stdlib.h"
+
+1668168901 c:\users\notebook\desktop\tpe ayda1 (2c)\ibiblio\include\serviciosbiblioteca.h
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1668167942 c:\users\notebook\desktop\tpe ayda1 (2c)\ibiblio\include\bibliotecaunicen.h
+	<iostream>
+	"Lista.h"
+
+1668128948 c:\users\notebook\desktop\tpe ayda1 (2c)\ibiblio\include\lista.h
+
+1668203045 source:c:\users\notebook\desktop\tpe ayda1 (2c)\ibiblio\src\bibliotecaunicen.cpp
+	<iostream>
+	"BibliotecaUnicen.h"
+	"Lista.h"
+
+1668137398 source:c:\users\notebook\desktop\tpe ayda1 (2c)\ibiblio\src\lista.cpp
+	<iostream>
+	"Lista.h"
+	"BibliotecaUnicen.h"
+
+1668203140 source:c:\users\notebook\desktop\tpe ayda1 (2c)\ibiblio\src\serviciosbiblioteca.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Lista.h"
+	"BibliotecaUnicen.h"
+	"ServiciosBiblioteca.h"
+

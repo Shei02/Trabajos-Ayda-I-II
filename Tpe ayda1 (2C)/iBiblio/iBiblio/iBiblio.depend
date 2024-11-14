@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665613308 source:c:\users\xaydu\onedrive\documentos\algoritmos\2022-2c\tpe\ibiblio\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+

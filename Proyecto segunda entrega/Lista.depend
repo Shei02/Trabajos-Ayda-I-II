@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1656504441 source:c:\users\notebook\desktop\c++\lista\main.cpp
+	<iostream>
+	<conio.h>
+	"Banco.h"
+	"Cliente.h"
+	"lista.h"
+	"Fila.h"
+
+1656518665 c:\users\notebook\desktop\c++\lista\include\lista.h
+	<iostream>
+	"Cliente.h"
+
+1656087266 source:c:\users\notebook\desktop\c++\lista\src\arbol.cpp
+	"lista.h"
+	<iostream>
+
+1656079345 c:\users\notebook\desktop\c++\lista\include\arbol.h
+	"lista.h"
+
+1656518680 source:c:\users\notebook\desktop\c++\lista\src\fila.cpp
+	"Fila.h"
+	"lista.h"
+	"Cliente.h"
+	<iostream>
+
+1656518680 c:\users\notebook\desktop\c++\lista\include\fila.h
+	<iostream>
+	"lista.h"
+
+1656518665 source:c:\users\notebook\desktop\c++\lista\src\lista.cpp
+	"lista.h"
+	<iostream>
+
+1656489441 source:c:\users\notebook\desktop\c++\lista\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1656489667 c:\users\notebook\desktop\c++\lista\include\cliente.h
+	<iostream>
+
+1656518559 source:c:\users\notebook\desktop\c++\lista\src\banco.cpp
+	<iostream>
+	"Banco.h"
+
+1656512811 c:\users\notebook\desktop\c++\lista\include\banco.h
+	"Cliente.h"
+	"lista.h"
+	"Fila.h"
+	<string.h>
+	<conio.h>
+

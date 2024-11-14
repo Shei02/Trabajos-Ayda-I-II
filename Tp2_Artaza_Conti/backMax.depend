@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1685218593 source:c:\users\usuario\desktop\tp_ayda2_artaza_conti\backmax\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<list>
+	<climits>
+	<utility>
+
+1686093598 source:c:\users\notebook\desktop\tp2_artaza_conti\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<list>
+	<climits>
+	<utility>
+	"conio.h"
+	"iostream"
+

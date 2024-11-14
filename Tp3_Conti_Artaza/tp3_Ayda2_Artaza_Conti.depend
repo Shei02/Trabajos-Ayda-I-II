@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1687361720 source:c:\users\notebook\desktop\tp3_conti_artaza\main.cpp
+	<iostream>
+	<set>
+	<string>
+	<cstdlib>
+

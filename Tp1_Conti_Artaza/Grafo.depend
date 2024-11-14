@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1566394313 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1566395342 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1566395359 source:c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1598390887 c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1682093783 source:c:\users\usuario\desktop\ayda 2\class grafo completa\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1682190964 c:\users\usuario\desktop\ayda 2\class grafo completa\grafo.h
+	<cstdio>
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1682875629 source:c:\users\usuario\desktop\ayda 2\tp1_conti\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1682891563 c:\users\usuario\desktop\ayda 2\tp1_conti\grafo.h
+	<cstdio>
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<cassert>
+	"iostream"
+
+1683502654 source:c:\users\usuario\desktop\tp1_conti_artaza\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1683414163 c:\users\usuario\desktop\tp1_conti_artaza\grafo.h
+	<cstdio>
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<cassert>
+	"iostream"
+
+1683737012 source:c:\users\usuario\desktop\tp_grafo_artaza_conti\main.cpp
+	"Grafo.h"
+	"conio.h"
+	"iostream"
+	"stdlib.h"
+
+1683414163 c:\users\usuario\desktop\tp_grafo_artaza_conti\grafo.h
+	<cstdio>
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<cassert>
+	"iostream"
+
